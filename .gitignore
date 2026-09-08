@@ -1,0 +1,33 @@
+# Personal workspace data
+private/profile.md
+private/evidence-bank.md
+private/story-menus.md
+private/writing-guide.md
+private/open-questions.md
+private/session-state.md
+private/imports/
+
+# Personal documents and generated outputs
+*.pdf
+*.docx
+*.pages
+!templates/*.docx
+!templates/*.pdf
+applications/**/materials/
+applications/**/submission-evidence/
+applications/**/notes-private.md
+
+# Contact data and integration exports
+contacts/*.sqlite3
+contacts/*.sqlite3-*
+contacts/imports/
+*.mbox
+
+# Workbook backups and temporary editor files
+tracker/backups/
+tracker/*.lock
+tracker/~$*
+*.tmp
+.DS_Store
+node_modules
+__pycache__/
