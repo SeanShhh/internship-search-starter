@@ -6,7 +6,7 @@ Use when a user asks to find internships, monitor likely openings during a worki
 
 1. Read the private profile, constraints, targets, timing, existing Applications sheet, and discovered application folders.
 2. State the criteria being used and any assumptions that need confirmation.
-3. Search employer career pages and relevant listing sites. Treat listing-site data as leads, then verify each viable role on the employer's official posting when possible.
+3. Search the recommended sources in `docs/discovery-sources.md`, employer career pages, and relevant campus resources. Treat listing-site data as leads, then verify each viable role on the employer's official posting when possible.
 4. Record the original listing source, employer-posting URL, verification date, deadline if stated, location/work arrangement, eligibility result, and missing information. Clearly label unavailable or uncertain details.
 5. Compare employer, title, location, program, and URL against existing tracker records and folders. Preserve an existing permanent ID; flag duplicates instead of creating another application.
 

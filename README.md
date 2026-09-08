@@ -43,6 +43,8 @@ No integration is required. Web research and Gmail can improve discovery and net
 
 During an active session, the assistant turns newly confirmed information into the private profile, evidence bank, story menus, writing guide, and session state. It does not invent facts or independently run after the chat ends. You can ask it to search for new roles at any time; when web search is available it uses the optional discovery workflow, verifies employer postings, and saves only eligible, non-duplicate candidates for your review.
 
+See [recommended discovery sources](docs/discovery-sources.md), including InternDock, SimplifyJobs, intern-list.com, employer career sites, and campus career resources.
+
 If a capability is missing, ask the assistant: “Use local files only and tell me what check remains.” It will mark verification, rendering, or sending work as outstanding instead of claiming it happened.
 
 ## Privacy and publishing
